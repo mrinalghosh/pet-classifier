@@ -1,6 +1,6 @@
 # MATLAB-Pet-Classifier
-EK381 Machine Learning Challenge (Spring 2019) - 1st Place
-Professor Vivek Goyal
+EK381 A1 Goyal
+Machine Learning Challenge (Spring 2019) - 1st Place
 
 CNN (convolutional neural network) that attempts to classifies cats and dogs using provided dataset (cats = -1, dogs = +1)
 
